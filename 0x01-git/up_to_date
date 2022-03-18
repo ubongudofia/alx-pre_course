@@ -1,1 +1,1 @@
-echo content > up_to_date
+git push
